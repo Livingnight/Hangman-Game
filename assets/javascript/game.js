@@ -43,7 +43,7 @@ var game = {
 
 
                 }
-            if(game.answer.indexOf("___ ") === -1){
+            if(game.underScore.indexOf("___ ") === -1){
                 game.wins++;
             }
             }
